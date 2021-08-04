@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1627930233 source:c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+	"listaEstaticaSequencial.h"
+	"listaSimplesmenteEncadeada.h"
+	"listaDuplamenteEncadeada.h"
+
+1627935273 c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\cliente.h
+
+1627942062 source:c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\cliente.c
+	"cliente.h"
+	<stdio.h>
+
+1627944423 source:c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\listaestaticasequencial.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"cliente.h"
+	"listaEstaticaSequencial.h"
+
+1627941440 c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\listaestaticasequencial.h
+
+1627948251 source:c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\listasimplesmenteencadeada.c
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+	"listaSimplesmenteEncadeada.h"
+
+1627948176 c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\listasimplesmenteencadeada.h
+
+1627933036 source:c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\listaduplamenteencadeada.c
+	<stdlib.h>
+	<stdio.h>
+	"cliente.h"
+	"listaDuplamenteEncadeada.h"
+
+1627917642 c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\listaduplamenteencadeada.h
+
+1627946740 source:c:\users\ferna\documents\faculdade\adnp\ed\nova pasta\gerenciadeclientes\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"cliente.h"
+	"listaEstaticaSequencial.h"
+	"listaSimplesmenteEncadeada.h"
+	"listaDuplamenteEncadeada.h"
+
